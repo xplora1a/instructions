@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<updated>2024-01-16T14:42:26Z</updated>
+	<author>
+		<name>Stuart Ward</name>
+		<email>xplora1a@gmail.com</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<updated>2024-01-16T14:42:26Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='list:(Banggood.com)'/>
+		<apps:property name='label' value='Ham'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001705410728387*8092263837172552199</id>
+		<updated>2024-01-16T14:42:26Z</updated>
+		<content></content>
+		<apps:property name='from' value='@theregister.co.uk'/>
+		<apps:property name='label' value='Ham'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001705410827358*4411274749401535479</id>
+		<updated>2024-01-16T14:42:26Z</updated>
+		<content></content>
+		<apps:property name='from' value='labourmovementforeurope@outlook.com'/>
+		<apps:property name='label' value='Projects/Politics'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001705410926544*0586622346173803526</id>
+		<updated>2024-01-16T14:42:26Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='list:(c670e83a0bca003acf801840d.678810.list-id.mcsv.net)'/>
+		<apps:property name='label' value='Projects/Politics'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001705410993338*3900770619314120369</id>
+		<updated>2024-01-16T14:42:26Z</updated>
+		<content></content>
+		<apps:property name='from' value='@e.newscientist.com'/>
+		<apps:property name='label' value='Ham'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001705411026470*8141142352761678642</id>
+		<updated>2024-01-16T14:42:26Z</updated>
+		<content></content>
+		<apps:property name='from' value='@labour.email'/>
+		<apps:property name='label' value='Projects/Politics'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001705411246241*4012084675214633740</id>
+		<updated>2024-01-16T14:42:26Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='list:(&lt;fighttorepair.substack.com&gt;)'/>
+		<apps:property name='label' value='Projects/Repair'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001705411365653*0992078564356998090</id>
+		<updated>2024-01-16T14:42:26Z</updated>
+		<content></content>
+		<apps:property name='from' value='@enews.makerscentral.co.uk'/>
+		<apps:property name='label' value='Ham'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001705413086670*5753292243335673113</id>
+		<updated>2024-01-16T14:42:26Z</updated>
+		<content></content>
+		<apps:property name='from' value='@lists.bcs.uk'/>
+		<apps:property name='label' value='Work'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001705413141587*4952717971300020376</id>
+		<updated>2024-01-16T14:42:26Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='list:(1c76cb37f73773b4962ae429b.686105.list-id.mcsv.net)'/>
+		<apps:property name='label' value='Ham'/>
+		<apps:property name='shouldArchive' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
